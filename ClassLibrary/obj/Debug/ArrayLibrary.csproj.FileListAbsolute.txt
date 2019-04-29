@@ -1,0 +1,12 @@
+C:\Users\BogdanHristich\source\repos\Exercise 4\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\BogdanHristich\source\repos\Exercise 4\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\BogdanHristich\source\repos\Exercise 4\ClassLibrary\obj\Debug\ArrayLibrary.csprojAssemblyReference.cache
+C:\Users\BogdanHristich\source\repos\Exercise 4\ClassLibrary\obj\Debug\ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BogdanHristich\source\repos\Exercise 4\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\BogdanHristich\source\repos\Exercise 4\ClassLibrary\obj\Debug\ClassLibrary.pdb
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\Exercise 4\ClassLibrary\bin\Debug\ClassLibrary.dll
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\Exercise 4\ClassLibrary\bin\Debug\ClassLibrary.pdb
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\Exercise 4\ClassLibrary\obj\Debug\ArrayLibrary.csprojAssemblyReference.cache
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\Exercise 4\ClassLibrary\obj\Debug\ArrayLibrary.csproj.CoreCompileInputs.cache
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\Exercise 4\ClassLibrary\obj\Debug\ClassLibrary.dll
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\Exercise 4\ClassLibrary\obj\Debug\ClassLibrary.pdb

@@ -1,0 +1,20 @@
+C:\Users\BogdanHristich\source\repos\Exercise 4\Exercise 4\bin\Debug\Exercise 4.exe.config
+C:\Users\BogdanHristich\source\repos\Exercise 4\Exercise 4\bin\Debug\Exercise 4.exe
+C:\Users\BogdanHristich\source\repos\Exercise 4\Exercise 4\bin\Debug\Exercise 4.pdb
+C:\Users\BogdanHristich\source\repos\Exercise 4\Exercise 4\bin\Debug\ClassLibrary.dll
+C:\Users\BogdanHristich\source\repos\Exercise 4\Exercise 4\bin\Debug\ClassLibrary.pdb
+C:\Users\BogdanHristich\source\repos\Exercise 4\Exercise 4\obj\Debug\Exercise 4.csprojAssemblyReference.cache
+C:\Users\BogdanHristich\source\repos\Exercise 4\Exercise 4\obj\Debug\Exercise 4.csproj.CoreCompileInputs.cache
+C:\Users\BogdanHristich\source\repos\Exercise 4\Exercise 4\obj\Debug\Exercise 4.csproj.CopyComplete
+C:\Users\BogdanHristich\source\repos\Exercise 4\Exercise 4\obj\Debug\Exercise 4.exe
+C:\Users\BogdanHristich\source\repos\Exercise 4\Exercise 4\obj\Debug\Exercise 4.pdb
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\Exercise 4\Exercise 4\bin\Debug\Exercise 4.exe.config
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\Exercise 4\Exercise 4\bin\Debug\Exercise 4.exe
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\Exercise 4\Exercise 4\bin\Debug\Exercise 4.pdb
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\Exercise 4\Exercise 4\bin\Debug\ClassLibrary.dll
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\Exercise 4\Exercise 4\bin\Debug\ClassLibrary.pdb
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\Exercise 4\Exercise 4\obj\Debug\Exercise 4.csprojAssemblyReference.cache
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\Exercise 4\Exercise 4\obj\Debug\Exercise 4.csproj.CoreCompileInputs.cache
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\Exercise 4\Exercise 4\obj\Debug\Exercise 4.csproj.CopyComplete
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\Exercise 4\Exercise 4\obj\Debug\Exercise 4.exe
+C:\Users\BogdanHristich\Desktop\EPAM\Практика\Task3\Exercise 4\Exercise 4\obj\Debug\Exercise 4.pdb
